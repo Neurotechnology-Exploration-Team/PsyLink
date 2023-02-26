@@ -1,0 +1,5 @@
+BLE-GATT
+matplotlib
+pynput
+tensorflow
+Pillow
